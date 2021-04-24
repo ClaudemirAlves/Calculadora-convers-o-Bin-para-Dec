@@ -1,4 +1,4 @@
-# Calculadora-convers-o-Bin-para-Dec
+# Calculadora-convers-o-Bin-para-Dec em C++
 Uma calculadora que converte números binários em decimais e vice versa.
 Construída em Python e depois migrada para C++.
 Ela está com vários comentários para explicar a lógica usada na programação.
